@@ -1,6 +1,8 @@
 # ineuron_python_assignment
+
 This repository is created for the solution of python mega assignment, big data bootcamp 2.0
 
+Following are the questions:
 
 Q1. Why do we call Python as a general purpose and high-level programming language?
 
